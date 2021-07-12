@@ -11,4 +11,6 @@ if(!$conn){
 }else{
     echo "Connected Succesfully";
 }
+
+Hello
 ?>
